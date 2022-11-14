@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ekkyu.github.io/csb-duezit/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ekkyu.github.io/csb-duezit/static/js/main.bd673b7a.chunk.js",
+    "main.js.map": "https://ekkyu.github.io/csb-duezit/static/js/main.bd673b7a.chunk.js.map",
+    "runtime-main.js": "https://ekkyu.github.io/csb-duezit/static/js/runtime-main.29b06c94.js",
+    "runtime-main.js.map": "https://ekkyu.github.io/csb-duezit/static/js/runtime-main.29b06c94.js.map",
+    "static/js/2.289cc3ff.chunk.js": "https://ekkyu.github.io/csb-duezit/static/js/2.289cc3ff.chunk.js",
+    "static/js/2.289cc3ff.chunk.js.map": "https://ekkyu.github.io/csb-duezit/static/js/2.289cc3ff.chunk.js.map",
+    "index.html": "https://ekkyu.github.io/csb-duezit/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ekkyu.github.io/csb-duezit/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.289cc3ff.chunk.js.LICENSE.txt": "https://ekkyu.github.io/csb-duezit/static/js/2.289cc3ff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29b06c94.js",
+    "static/js/2.289cc3ff.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.bd673b7a.chunk.js"
+  ]
+}
